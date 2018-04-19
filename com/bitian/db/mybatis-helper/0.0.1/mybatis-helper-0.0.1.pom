@@ -12,13 +12,13 @@
   
   <repositories>  
        <repository>
-        <id>maven-repo-master</id>
-        <url>https://raw.github.com/juoliii/maven-repo/master/</url>
-        <snapshots>
-            <enabled>true</enabled>
-            <updatePolicy>always</updatePolicy>
-        </snapshots>
-    	</repository>
+			<id>maven-repo-master</id>
+			<url>https://raw.github.com/juoliii/maven-repo/master/</url>
+			<snapshots>
+			    <enabled>true</enabled>
+			    <updatePolicy>always</updatePolicy>
+			</snapshots>
+	    </repository>
 	</repositories>
 
   <properties>
